@@ -1,5 +1,6 @@
 package restAssuredTest;
 
+//ref : https://www.youtube.com/watch?v=WU9Nry-XrLE&list=PLBiGKr76xSBBsK7X0sbdqLU2y98KoPzWG
 import static io.restassured.RestAssured.*;
 
 import org.testng.annotations.Test;
